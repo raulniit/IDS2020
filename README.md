@@ -26,6 +26,5 @@ POP.csv
 ## Code
 
 The code in this project was written in Jupyter Notebook using Python 3 as the programming language.  
-Jupyter Notebook files represent various steps in our project, like data preparation, modelling and visualizing.  
-The final result of our code can be found in the file "IDS2020_project_final.ipynb", which consists of all of the steps done in this project.  
+The final result of our code can be found in the file "IDS2020_project_final.ipynb", which consists of all of the steps done in this project, including data preparation, visualizing and mbuilding a regression model.  
 
